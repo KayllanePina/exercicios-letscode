@@ -1,6 +1,4 @@
-package br.com.exercicios.br.com.exercicios.exercicio1;
-
-import br.com.exercicios.br.com.exercicios.exercicio1.Pessoa;
+package br.com.exercicios;
 
 public class Aplicacao {
     public static void main(String[] args) {

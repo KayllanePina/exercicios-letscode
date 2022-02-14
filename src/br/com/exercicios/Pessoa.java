@@ -1,4 +1,4 @@
-package br.com.exercicios.br.com.exercicios.exercicio1;
+package br.com.exercicios;
 
 public class Pessoa {
     public String nome;
